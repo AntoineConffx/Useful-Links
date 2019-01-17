@@ -112,6 +112,7 @@
   
 ### Web scraping  
 
+- [Scrapy: Python Web scraping](https://scrapy.org/)
 - [Web scraping handling ajax website](https://www.reddit.com/r/programming/comments/52j5xk/web_scraping_handling_ajax_website/?st=IT1PLOHS&sh=088ca6f9)  
 
 ### RPI and fun things to code
