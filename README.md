@@ -1,7 +1,7 @@
 
 # Useful Links
 
-### Notes:
+## Notes
 
 - Lots of these point to reddit posts instead of the direct URL  
 - Need to re-organize into better categories for some  
