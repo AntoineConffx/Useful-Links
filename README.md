@@ -52,6 +52,7 @@
 - [Kostas Anagnostou](https://interplayoflight.wordpress.com/)  
 - [Trent Reed : Digipen student](http://www.trentreed.net/blog/)  
 - [Bartek: C++ Coding blog](https://www.bfilipek.com/)  
+- [Hrader, Better, Faster, Stronger: C/C++, Optimizations](https://hbfs.wordpress.com/)
 
 ## Programming Interviews  
 
