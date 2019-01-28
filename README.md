@@ -19,6 +19,7 @@
 - [Awesome graphics - Computer graphics resources](https://github.com/ericjang/awesome-graphics/blob/master/README.md)  
 - [Algorithms and Data structs cheat sheets](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)  
 - [Collection of Vulkan Resources](https://www.gamedev.net/forums/topic/675590-vulkan-resources/)  
+- [C/C++ Game dev libs](https://github.com/raizam/junkyard_gfx)  
 
 ## Programming and Game articles
 
