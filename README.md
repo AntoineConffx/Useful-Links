@@ -57,6 +57,7 @@
 - [Bartek: C++ Coding blog](https://www.bfilipek.com/)  
 - [Hrader, Better, Faster, Stronger: C/C++, Optimizations](https://hbfs.wordpress.com/)
 - [Cowboy programming blog: C/C++](http://cowboyprogramming.com/)  
+- [Adam Sawicki Graphics Programming](http://asawicki.info/)  
 
 
 ## Programming Interviews  
