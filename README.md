@@ -98,6 +98,7 @@
 - [Procedurally picking colors](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)  
 - [Parametric GPU particles](http://genericgamedev.com/effects/parametric-gpu-accelerated-particles/)  
 - [BSSRDF importance sampling](http://rendering-memo.blogspot.com/2015/01/bssrdf-importance-sampling-2-dipole.html)  
+- [GPUView low level gpu profiler](https://graphics.stanford.edu/~mdfisher/GPUView.html)  
 
 ## AI  
 
