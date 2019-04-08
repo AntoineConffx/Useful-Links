@@ -59,6 +59,8 @@
 - [Cowboy programming blog: C/C++](http://cowboyprogramming.com/)  
 - [Adam Sawicki Graphics Programming](http://asawicki.info/)  
 - [Self Shadow blog](https://blog.selfshadow.com/)  
+- [The ryg blog](https://fgiesen.wordpress.com/)  
+
 
 
 ## Programming Interviews  
