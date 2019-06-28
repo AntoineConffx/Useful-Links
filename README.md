@@ -21,7 +21,7 @@
 - [Collection of Vulkan Resources](https://www.gamedev.net/forums/topic/675590-vulkan-resources/)  
 - [C/C++ Game dev libs](https://github.com/raizam/junkyard_gfx)  
 - [Awesome ARKit references](https://github.com/olucurious/Awesome-ARKit)  
-
+- [Weekly graphics news](https://www.jendrikillner.com/post/)  
 
 ## Programming and Game articles
 
